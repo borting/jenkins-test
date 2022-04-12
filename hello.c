@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 
 	printf("How come I must know.\n");
 
-	printf("Where obsession needs to go?\n");
+	printf("Where obsession needs to go?\n);
 
 	return 0;
 }
